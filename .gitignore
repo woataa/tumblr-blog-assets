@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+*.pyc
+__pycache__/
+
+# CSS/JS
+*.map
+
+# Assets
+assets/
+.DS_Store
+
+# General
+.env
+.idea/
+.vscode/
